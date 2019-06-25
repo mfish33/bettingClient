@@ -1,3 +1,3 @@
 # bettingClient
 
-#Cordova Client for the express app
+Cordova Client for the express app
